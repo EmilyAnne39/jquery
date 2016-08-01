@@ -1,0 +1,20 @@
+.square {
+          padding: 80px;
+          width: 10px;
+          background-color: red;
+          margin: 40px auto;
+}
+
+#circle {padding: 100px;
+         width: 10px;
+         background-color: green;
+         margin: 40px auto;
+         border-radius: 50%;
+}
+
+.oval {padding: 50px;
+       width: 20px;
+       background-color:orange;
+       margin: 40px auto;
+       border-radius:40%;
+}
